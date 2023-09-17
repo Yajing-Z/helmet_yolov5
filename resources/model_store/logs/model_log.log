@@ -1,0 +1,15 @@
+2023-09-16T14:53:31,052 [INFO ] W-9000-helmet_detection_1.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9000, pid=796
+2023-09-16T14:53:31,054 [INFO ] W-9000-helmet_detection_1.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9000
+2023-09-16T14:53:31,064 [INFO ] W-9000-helmet_detection_1.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2023-09-16T14:53:31,065 [INFO ] W-9000-helmet_detection_1.0-stdout MODEL_LOG - [PID]796
+2023-09-16T14:53:31,066 [INFO ] W-9000-helmet_detection_1.0-stdout MODEL_LOG - Torch worker started.
+2023-09-16T14:53:31,067 [INFO ] W-9000-helmet_detection_1.0-stdout MODEL_LOG - Python runtime: 3.9.17
+2023-09-16T14:53:31,096 [INFO ] W-9000-helmet_detection_1.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9000.
+2023-09-16T14:53:31,182 [INFO ] W-9000-helmet_detection_1.0-stdout MODEL_LOG - model_name: helmet_detection, batchSize: 1
+2023-09-16T14:53:31,391 [INFO ] W-9000-helmet_detection_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-09-16T14:56:43,509 [INFO ] W-9000-helmet_detection_1.0-stdout MODEL_LOG - Backend received inference at: 1694876203
+2023-09-16T14:56:43,575 [WARN ] W-9000-helmet_detection_1.0-stderr MODEL_LOG - /home/venv/lib/python3.9/site-packages/torchvision/transforms/functional.py:1603: UserWarning: The default value of the antialias parameter of all the resizing transforms (Resize(), RandomResizedCrop(), etc.) will change from None to True in v0.17, in order to be consistent across the PIL and Tensor backends. To suppress this warning, directly pass antialias=True (recommended, future default), antialias=None (current default, which means False for Tensors and True for PIL), or antialias=False (only works on Tensors - PIL will still use antialiasing). This also applies if you are using the inference transforms from the models weights: update the call to weights.transforms(antialias=True).
+2023-09-16T14:56:43,576 [WARN ] W-9000-helmet_detection_1.0-stderr MODEL_LOG -   warnings.warn(
+2023-09-16T14:56:53,639 [INFO ] W-9000-helmet_detection_1.0-stdout MODEL_LOG - Backend received inference at: 1694876213
+2023-09-16T14:57:35,912 [INFO ] W-9000-helmet_detection_1.0-stdout MODEL_LOG - Backend received inference at: 1694876255
+2023-09-16T14:57:42,540 [INFO ] W-9000-helmet_detection_1.0-stdout MODEL_LOG - Backend received inference at: 1694876262

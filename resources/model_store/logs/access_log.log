@@ -1,0 +1,4 @@
+2023-09-16T14:56:45,153 - /127.0.0.1:36386 "PUT /predictions/helmet_detection HTTP/1.1" 200 1655
+2023-09-16T14:56:59,190 - /127.0.0.1:35048 "PUT /predictions/helmet_detection HTTP/1.1" 200 5557
+2023-09-16T14:57:35,984 - /127.0.0.1:33016 "PUT /predictions/helmet_detection HTTP/1.1" 200 85
+2023-09-16T14:57:42,605 - /127.0.0.1:52670 "PUT /predictions/helmet_detection HTTP/1.1" 200 71

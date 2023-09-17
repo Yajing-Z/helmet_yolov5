@@ -1,0 +1,8 @@
+2023-09-16T14:56:45,147 - HandlerTime.ms:1634.94|#ModelName:helmet_detection,Level:Model|#hostname:c1bbcf60aa1f,requestID:816e7efa-46a9-42a8-8252-0eb649433426,timestamp:1694876205
+2023-09-16T14:56:45,149 - PredictionTime.ms:1636.83|#ModelName:helmet_detection,Level:Model|#hostname:c1bbcf60aa1f,requestID:816e7efa-46a9-42a8-8252-0eb649433426,timestamp:1694876205
+2023-09-16T14:56:59,187 - HandlerTime.ms:5545.98|#ModelName:helmet_detection,Level:Model|#hostname:c1bbcf60aa1f,requestID:f42ef767-d5e2-4fbe-8bdc-58a5b6e9dd2d,timestamp:1694876219
+2023-09-16T14:56:59,188 - PredictionTime.ms:5547.46|#ModelName:helmet_detection,Level:Model|#hostname:c1bbcf60aa1f,requestID:f42ef767-d5e2-4fbe-8bdc-58a5b6e9dd2d,timestamp:1694876219
+2023-09-16T14:57:35,982 - HandlerTime.ms:69.42|#ModelName:helmet_detection,Level:Model|#hostname:c1bbcf60aa1f,requestID:a6060802-2efa-4dfc-b390-a43a1f1bdec9,timestamp:1694876255
+2023-09-16T14:57:35,984 - PredictionTime.ms:70.39|#ModelName:helmet_detection,Level:Model|#hostname:c1bbcf60aa1f,requestID:a6060802-2efa-4dfc-b390-a43a1f1bdec9,timestamp:1694876255
+2023-09-16T14:57:42,605 - HandlerTime.ms:63.72|#ModelName:helmet_detection,Level:Model|#hostname:c1bbcf60aa1f,requestID:c535d968-4d42-4e52-aa0d-3da57ceda8d6,timestamp:1694876262
+2023-09-16T14:57:42,607 - PredictionTime.ms:64.06|#ModelName:helmet_detection,Level:Model|#hostname:c1bbcf60aa1f,requestID:c535d968-4d42-4e52-aa0d-3da57ceda8d6,timestamp:1694876262
